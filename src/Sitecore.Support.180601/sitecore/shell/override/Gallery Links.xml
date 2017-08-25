@@ -4,7 +4,7 @@
     <Gallery>
       <Stylesheet Src="/sitecore/shell/Applications/Content Manager/Galleries/Links/Gallery Links.css" />
 
-      <CodeBeside Type="Sitecore.Support.Shell.Applications.ContentManager.Galleries.Links.GalleryLinksFormToolTip, Sitecore.Support.180601"/>
+      <CodeBeside Type="Sitecore.Support.Shell.Applications.ContentManager.Galleries.Links.GalleryLinksForm, Sitecore.Support.180601"/>
 
       <div ID="Grid" class="scStretch">
         <Border ID="Links" Class="scGalleryContent13" />
